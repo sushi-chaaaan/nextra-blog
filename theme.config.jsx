@@ -9,13 +9,7 @@ export default {
       {meta.author && <meta name="author" content={meta.author} />}
     </>
   ),
-  readMore: 'Read More →',
+  readMore: "Read More →",
   postFooter: null,
   darkMode: false,
-  navs: [
-    {
-      url: 'https://github.com/shuding/nextra',
-      name: 'Nextra'
-    }
-  ]
 }
